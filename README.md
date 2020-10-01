@@ -4,5 +4,5 @@ This Flutter app was made in response to the issue of misinformation within Afri
 [Afrinformer Video Demonstration](https://drive.google.com/file/d/1BnpyYiSJAi_DBAT0k8l5ipBcUOCG7OrP/view?usp=sharing "Afrinformer Video Demonstration")
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1BnpyYiSJAi_DBAT0k8l5ipBcUOCG7OrP/view?usp=sharingg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src=https://drive.google.com/file/d/1BnpyYiSJAi_DBAT0k8l5ipBcUOCG7OrP/view?usp=sharingg frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
